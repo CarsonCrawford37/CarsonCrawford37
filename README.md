@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Carson! <br/><a href="https://github.com/CarsonCrawford37">Programmer</a>, <a href="https://www.linkedin.com/in/carson-crawford/">XR and Game Designer</a>, <a href="https://www.instagram.com/codebycarson/">Content Creator</a></h1>
 
-<!--
-**CarsonCrawford37/CarsonCrawford37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Games:</h2>
 
-Here are some ideas to get you started:
+- <b>VR</b>
+  - [Magi VR](https://github.com/CarsonCrawford37/Magi)
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="CarsonCrawford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CarsonCrawford | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/codebycarson/
+[linkedin]: https://www.linkedin.com/in/carson-crawford/
